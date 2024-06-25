@@ -1,5 +1,5 @@
 function hi(name:string){
-   return console.log(name);
+   console.log('hi', name);
 }
 
 hi('hmvisuality')
